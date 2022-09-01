@@ -6,7 +6,7 @@ Validasyonları Staff.cs , methodları StaffController.cs dosyalarında görebil
 Öncelikle projeyi kolonlayın.
 
 ```
-git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/assignment-2-sinemyoruc.git
+git clone https://github.com/sinemyoruc/PayCoreBootcamp-HW2.git
 ```
 
 ## Usage
