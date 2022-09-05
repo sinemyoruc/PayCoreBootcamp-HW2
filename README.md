@@ -3,14 +3,14 @@ Bu projede .NET'de özel validasyonlar yapılarak Http Get, GetById, Post, Put v
 Validasyonları Staff.cs , methodları StaffController.cs dosyalarında görebilirsiniz.
 
 ## Installation
-Öncelikle projeyi kolonlayın.
+Öncelikle projeyi klonlayın.
 
 ```
 git clone https://github.com/sinemyoruc/PayCoreBootcamp-HW2.git
 ```
 
 ## Usage
-Projeyi cloneladıktan sonra Visual Studio 2022 programında açınız.
+Projeyi klonladıktan sonra Visual Studio 2022 programında açınız.
 
 Daha sonra uygulamayı çalıştırabilirsiniz.
 
